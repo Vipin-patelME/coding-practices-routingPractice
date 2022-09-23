@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.nav-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 10%;
+}
+.nav-para-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+}
+.wave-logo {
+  height: 40px;
+  width: 40px;
+}
+.nav-para {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: 510;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.not-found-image {
+  height: 350px;
+  width: 450px;
+}
+.home-para {
+  font-family: 'Roboto';
+  font-weight: 510;
+  font-size: 50px;
+  color: #6d396b;
+}
